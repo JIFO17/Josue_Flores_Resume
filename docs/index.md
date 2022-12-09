@@ -4,11 +4,14 @@ title: Josue Flores Resume
 ---
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="flo19008@byui.edu">datascience@byui.edu</a>
+| <a href="https://jifo17.github.io/">Data Science Program</a>
+| <a href="https://www.linkedin.com/josuflorespro/">LinkedIn</a>
+| <a href="https://github.com/JIFO17">GitHub</a>
 </div>
+
+
+
 
 
 ## Josue I Flores
