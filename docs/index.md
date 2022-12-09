@@ -4,21 +4,15 @@ title: Josue Flores Resume
 ---
 
 <div id="webaddress">
-<a href="flo19008@byui.edu">datascience@byui.edu</a>
-| <a href="https://jifo17.github.io/">Data Science Program</a>
+<a href="flo19008@byui.edu">flo19008@byui.edu</a>
+| <a href="https://jifo17.github.io/">My Github</a>
 | <a href="https://www.linkedin.com/josuflorespro/">LinkedIn</a>
-| <a href="https://github.com/JIFO17">GitHub</a>
 </div>
-
-
-
 
 
 ## Josue I Flores
 
 
-      flores.josueisai@gmail.com • 208-443-7491 • https://www.linkedin.com/in/josueflorespro
-    
 __What’s your data’s storytelling?__
 
 ## Education
