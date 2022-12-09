@@ -12,6 +12,8 @@ title: Josue Flores Resume
 
 
 ## Josue I Flores
+
+
       flores.josueisai@gmail.com • 208-443-7491 • https://www.linkedin.com/in/josueflorespro
     
 __What’s your data’s storytelling?__
